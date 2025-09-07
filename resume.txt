@@ -1,0 +1,59 @@
+Rishi Ahuja
+rishiahuja.1404@gmail.com ❖ +1 (226) 751-5815 ❖ Waterloo, ON ❖ Portfolio ❖ Github ❖ Linkedin
+EDUCATION
+University of Waterloo December, 2029
+Bachelor of Computer Science, Computer Science Waterloo, ON
+WORK EXPERIENCE
+Vedantu Innovations Pvt. Ltd. cc May. 2023 – July 2023
+Software Engineering Intern New Delhi
+▪
+Developed the Wave platform, enabling seamless and engaging product demos for the sales team..
+Stack: Python; Java; SQL; HTML; CSS; JavaScript; REST APIs; AWS; Git.
+Tinker Zoo Services Jan. 2021 – Mar. 2024
+Founder & CEO New Delhi
+▪
+Tinker Zoo Services provides tech solutions to individuals and businesses with limited knowledge of
+technology, focusing on helping parents navigate the evolving tech landscape in India.
+▪
+As Founder & CEO, I oversaw our core strategies, business automation, revenue generation, and tech education.
+Key Results: Generated six figures in revenue within the first four months; successfully took multiple
+businesses online, including a startup insurance company.
+Wadhwa Electronics May. 2022 – Jul. 2022
+Tech Operations Intern Remote
+▪
+Led the digital transformation of the company, seamlessly migrating customer records and operations to online
+accounts, integrating multiple branches for streamlined management.
+PROJECTS
+o
+Magnificent Seven Sentiment – Hierarchical Deep Learning for Financial News Analysis Mar. 2025
+▪
+Built a sentiment analysis system targeting the Magnificent Seven by combining FinBERT-based NLP with a
+custom Hierarchical Sentiment Analysis Model (HSAM).
+▪
+Modeled sentiment from stock-specific, U.S. economic, and NASDAQ news using exponential decay, PCA,
+volatility adjustment, and Bayesian updating.
+▪
+Produced scores, time-series plots, heatmaps, and summaries to track market and inform trading insights.
+o Stack: Python; Transformers; FinBERT; Scikit-learn; Matplotlib; APIs; Git..
+MarmoUI 2.0 Mar. 2025
+▪
+MarmoUI 2.0 is a browser extension for the UWaterloo’s CS Marmoset submission system that introduces
+themes, submission tracking, score visualizations, and deadline alerts to improve usability and aesthetics
+o Stack: JavaScript (ES6+); HTML; CSS; Browser APIs; Git (version control).
+ManuQuill– Effortless, Elegant Documents Jan. 2025
+▪
+ManuQuill is an online tool that uses natural language processing to analyze and transform raw, unstructured
+text into visually appealing, structured word documents, including resumes, reports, and project documents.
+o Stack: JavaScript (React); OpenAI; NLP; Tailwind; HTML; CSS; API; Netlify; Git (version control).
+Teacher Buddy Jan. 2024
+▪
+Teacher Buddy helps teachers take their classrooms online by evaluating student assignments using natural
+language processing. Includes a user-friendly Tkinter interface with real-time scoring and proper storage of
+student records, including assignments using SQL and CSV .
+o Stack: Python; Tkinter; MySQL; CSV; NLP; NLTK; DBMS; Git (version control).
+CERTIFICATIONS, SKILLS & INTERESTS
+▪
+▪
+Certifications: Python(adv); Arduino(adv); App Dev(adv); National Ideathon 1st place [500 CAD]; LOR(Vedantu)
+Skills: Python; Racket; C; Java; Deep Learning; Full Stack Dev; C++; Bash; Linux; Software Development; JavaScrip;
+SQL; React, Node.js; Flask; Django; PostgreSQL; MongoDB; Firebase; AWS; Software Testing; Debugging.
